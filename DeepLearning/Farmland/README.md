@@ -1,4 +1,4 @@
-安裝Anaconda的Python環境，在環境也匯入了pytorch、os、pandas、PIL、matplotlib.pyplot、sklearn、xgboost等套件
+安裝Anaconda的Python環境，在環境也匯入了pytorch、os、pandas、PIL、matplotlib.pyplot、sklearn、xgboost等套件/n
 model/ 訓練完成的模型參數
 output/ predictoutput_6輸出的csv結果
 programming/ .ipynb的python程式碼
