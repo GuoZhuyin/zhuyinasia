@@ -1,6 +1,9 @@
-安裝Anaconda的Python環境，在環境也匯入了pytorch、os、pandas、PIL、matplotlib.pyplot、sklearn、xgboost等套件\n
+安裝Anaconda的Python環境，在環境也匯入了pytorch、os、pandas、PIL、matplotlib.pyplot、sklearn、xgboost等套件
+
 model/ 訓練完成的模型參數
+
 output/ predictoutput_6輸出的csv結果
+
 programming/ .ipynb的python程式碼
 submit/ FarmlandSubmit_7輸出交出去評估預測準確率的結果
 Step1進行截圖: crop-1-2-2-5, crop-1-2-3-5, crop-1-5-1-2, crop-3-4-1-2
